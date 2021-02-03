@@ -4,11 +4,6 @@
 
 <br/>
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estrogenic&layout=compact" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estrogenic&layout=compact)
 
-<br/>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=estrogenic&hide=issues,contribs&show_icons=true&theme=tokyonight&locale=en&custom_title=ESTROGENIC's&line_height=30" />
-</a>
+![ESTROGENIC's GitHub stats](https://github-readme-stats.vercel.app/api?username=estrogenic&hide=issues,contribs&show_icons=true&theme=tokyonight&locale=en&custom_title=ESTROGENIC's&line_height=30)
